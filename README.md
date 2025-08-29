@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on 👯<br>Building scalable e-commerce solutions and crafting seamless user experiences.<br><br>I'm looking to collaborate on 🤝<br>Open-source projects focused on accessibility and social impact.<br><br>I'm looking for help with 🌱<br>Mastering Kubernetes and containerization.<br><br>I'm currently learning 💬<br>NextJS<br><br>Ask me about ⚡<br>E-commerce platform architecture, scalable microservices design, and AI-powered chatbots.
+I'm currently working on 👯<br>Marketing Automation Platform and crafting seamless user experiences.<br><br>I'm looking to collaborate on 🤝<br>Open-source projects focused on accessibility and social impact.<br><br>I'm looking for help with 🌱<br>Mastering Kubernetes and containerization.<br><br>I'm currently learning 💬<br>NextJS<br><br>Ask me about ⚡<br>E-commerce platform architecture, scalable microservices design, and AI-powered chatbots.
 
 
 ## 🌐 Socials:
